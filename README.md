@@ -1,2 +1,2 @@
-# Codecademy
-A list of projects I've made in the Codecademy courses
+# Learning
+A list of projects I've made for learning purposes.
